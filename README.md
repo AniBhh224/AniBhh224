@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 ## 🙋‍♂️ About me  
-I'm **Anis Bougherbal**, a Computer Science and Cybersecurity engineering student at **INSA Hauts-de-France**.  
+I'm **Anis**, a Computer Science and Cybersecurity engineering student at **INSA Hauts-de-France**.  
 I love working on projects involving **Python**, **Java**, **PHP**, and **system administration**.  
 I'm passionate about **software development**, **network security**, and **system security**.  
 

@@ -15,4 +15,3 @@ I'm passionate about **software development**, **network security**, and **syste
 ## 📫 Contact  
 - [LinkedIn](https://www.linkedin.com/in/anis-bougherbal-b0783a263/)  
 - [GitHub](https://github.com/AniBhh224)  
-- Email: anisbougherbal2508@gmail.com
